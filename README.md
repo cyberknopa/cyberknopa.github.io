@@ -1,1 +1,1 @@
-# [Му CV site](cyberknopa.github.io)
+# Му CV site
